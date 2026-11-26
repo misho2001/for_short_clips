@@ -1,0 +1,77 @@
+{
+  "source": "source_GE.mp4",
+  "output": "C:\\Users\\user\\Desktop\\shortVideos\\trailer.mp4",
+  "duration_seconds": 170.09,
+  "moments": [
+    {
+      "start": 587.0,
+      "end": 599.0,
+      "score": 0.5446
+    },
+    {
+      "start": 698.0,
+      "end": 710.0,
+      "score": 0.5954
+    },
+    {
+      "start": 721.0,
+      "end": 733.78,
+      "score": 0.596
+    },
+    {
+      "start": 754.0,
+      "end": 766.0,
+      "score": 0.6146
+    },
+    {
+      "start": 915.0,
+      "end": 927.0,
+      "score": 0.5694
+    },
+    {
+      "start": 935.19,
+      "end": 948.0,
+      "score": 0.6193
+    },
+    {
+      "start": 1030.0,
+      "end": 1042.0,
+      "score": 0.5215
+    },
+    {
+      "start": 1110.0,
+      "end": 1122.0,
+      "score": 0.6091
+    },
+    {
+      "start": 1161.0,
+      "end": 1173.0,
+      "score": 0.5705
+    },
+    {
+      "start": 1187.0,
+      "end": 1199.0,
+      "score": 0.5574
+    },
+    {
+      "start": 1294.0,
+      "end": 1306.0,
+      "score": 0.5297
+    },
+    {
+      "start": 1803.0,
+      "end": 1815.0,
+      "score": 0.5959
+    },
+    {
+      "start": 2522.0,
+      "end": 2534.0,
+      "score": 0.5833
+    },
+    {
+      "start": 3298.0,
+      "end": 3307.91,
+      "score": 0.5392
+    }
+  ]
+}
